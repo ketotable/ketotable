@@ -10,3 +10,5 @@
 백엔드 Nodejs
 
 인프라 AWS
+
+DB MySQL, Redis
