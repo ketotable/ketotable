@@ -21,3 +21,7 @@
 **DB** MySQL, Redis
 
 ---
+
+**주소** : 강남대로 95길 40 4층 마이노멀 · 키토테이블
+
+**메일** : ketotable@ketotable.kr
