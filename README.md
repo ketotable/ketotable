@@ -1,7 +1,6 @@
 # 인아웃
 
-
-https://www.youtube.com/watch?v=KBoTfVKRv80
+[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://www.youtube.com/watch?v=KBoTfVKRv80)
 
 
 **앱스토어** : [https://apps.apple.com/kr/app/id1599210729](https://apps.apple.com/kr/app/id1599210729)
