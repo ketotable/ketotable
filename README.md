@@ -14,11 +14,11 @@
 
 **프론트** React, ReactNative
 
-**백엔드** Nodejs
+**백엔드** Nodejs Express NestJs
 
 **인프라** AWS
 
-**DB** MySQL, Redis
+**DB** MySQL, Redis, DynamoDB
 
 ---
 
